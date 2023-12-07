@@ -1,7 +1,7 @@
 <h1 align="center">Angular - The modern web developer's platform</h1>
 
 <p align="center">
-  <img src="aio/src/assets/images/logos/angular/angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular_renaissance.png" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <em>Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</em>
@@ -90,7 +90,7 @@ Run the application:
 ```
 cd [PROJECT NAME]
 ng serve
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`
+Run ng serve for a dev server. Navigate to http://localhost:4200/
 ```
 
 Angular is cross-platform, fast, scalable, has incredible tooling, and is loved by millions.
@@ -102,7 +102,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 ## Ecosystem
 
 <p>
-  <img src="/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
+  <img src="https://github.com/angular/angular/blob/main/docs/images/angular-ecosystem-logos.png" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
